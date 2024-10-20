@@ -1,0 +1,10 @@
+
+{
+    "apiKey": "9372c84370f2a36af0001e0236631450",
+    "interval": "*/5 * * * *",
+    "cities": ["Delhi", "Mumbai", "Chennai", "Bangalore", "Kolkata", "Hyderabad"],
+    "unit": "metric", 
+    "alertThreshold": 35,
+    "alertEmail": "user@example.com"
+  }
+  
